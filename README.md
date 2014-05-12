@@ -1,4 +1,4 @@
 sturdyworks.github.io
 =====================
 
-Sturdyworks Website
+Sturdyworks GitHub Pages
